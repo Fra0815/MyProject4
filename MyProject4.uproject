@@ -13,5 +13,11 @@
 				"Linux"
 			]
 		}
+	],
+	"TargetPlatforms": [
+		"Linux",
+		"Mac",
+		"Windows",
+		"Lumin"
 	]
 }
